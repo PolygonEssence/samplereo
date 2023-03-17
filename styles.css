@@ -1,0 +1,17 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif; color:white;
+    text-align:center;
+    background-color: black;
+
+}
+
+img {
+    width:200px;
+    height: 200px;
+    
+}
+
+label {
+    position: absolute;
+    
+}
